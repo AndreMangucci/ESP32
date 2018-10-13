@@ -1,9 +1,12 @@
 # ESP32 voice commands
 
 ## Requirements
-  Python Lib's
-  -pyaudio
-  -SpeechRecognition
+
+Python Lib's
+
+-pyaudio
+
+-SpeechRecognition
 
 ## Basics
 
