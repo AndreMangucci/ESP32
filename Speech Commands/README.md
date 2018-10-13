@@ -4,9 +4,9 @@
 
 Python Lib's
 
--pyaudio
+  -pyaudio
 
--SpeechRecognition
+  -SpeechRecognition
 
 ## Basics
 
