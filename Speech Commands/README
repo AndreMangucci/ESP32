@@ -1,0 +1,13 @@
+<h1>ESP32 voice commands</h1>
+
+<h2>Requirements</h2>
+  Python Lib's
+  -pyaudio
+  -SpeechRecognition
+
+<h2>Basics</h2>
+
+Voice commands sent from the script "voice_commands.py" via socket to the ESP32.
+The "wifi_terminal.ino" does the simple interpretation of the string received.
+
+
