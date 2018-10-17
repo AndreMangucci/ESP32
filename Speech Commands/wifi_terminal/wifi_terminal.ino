@@ -2,8 +2,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-const char* ssid     = "HERMANN 2.4GHz";
-const char* password = "nino021712";
+const char* ssid     = "";
+const char* password = "";
 
 WiFiServer server(80);
 
